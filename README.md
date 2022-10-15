@@ -10,7 +10,7 @@ it has been further developed by the other members of this project.
 
 - Registration, updating, deleting students.
 - Each individual student would have a card that would register in the entrence.
-- All the attending students are saved with an Excel spreadsheet as a database which would later allow an easier 
+- All the attending students are saved with an Excel spreadsheet as a database which would later allow an easier manipulation of data
 - Only be used with machines with command promt 
 
 ### Added features in later versions (past v1)
